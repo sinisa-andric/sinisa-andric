@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siniša Andrić
 - 👀 I’m interested in Go
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go and web development
 - 📫 How to reach me: sinisa.andric@mail.ru or +38162263637
 
 <!---
